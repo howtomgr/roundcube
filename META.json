@@ -1,0 +1,67 @@
+{
+  "category": "webmail",
+  "created_date": "2025-09-15T22:48:58.950420",
+  "default_ports": [
+    80,
+    443,
+    2048
+  ],
+  "dependencies": [
+    "php",
+    "php-mysql",
+    "php-pear"
+  ],
+  "description": "Roundcube is a free and open-source Webmail. Browser-based multilingual IMAP client",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/webmail/roundcube",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/webmail/roundcube",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.950443",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "roundcube",
+  "repository_url": "https://github.com/howtomgr/roundcube",
+  "spec_version": "2.0",
+  "subcategory": "webmail",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "webmail",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "Roundcube Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/webmail/roundcube"
+}
